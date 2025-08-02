@@ -21,7 +21,9 @@ It adds author information, creation date, and updates the `Updated:` timestamp 
 
 ### 🔁 One-Time Installation
 
-Run this setup.sh inside this project directory. Then, you can cofigure your VSCode to automate the update
+1- Update AUTHOR and EMAIL from `file_heading.sh`
+
+2- Run this `setup.sh` inside this project directory. Then, you can cofigure your VSCode to automate the update
 
 ### Manual usage:
 
